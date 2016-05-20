@@ -1,0 +1,12 @@
+name: todo-backend-kemal
+version: 0.1.0
+
+authors:
+  - Dru Jensen <drujensen@gmail.com>
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
